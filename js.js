@@ -103,3 +103,5 @@
 
 // let str2 = '12345';
 // console.log(str2.split('')); //[1,2,3,4,5]
+
+//Igor Nikonov & Saher Haddad
